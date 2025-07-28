@@ -19,6 +19,13 @@
 
 ![Demo GIF](https://github.com/0weny/Object-Recognition/blob/main/static/facedetection.gif?raw=true)
 
+<!-- 왼쪽 정렬, 동일 크기, 세로 배치 -->
+<img src="https://github.com/user-attachments/assets/25f4050c-6fe5-4f59-ab09-0cb6ab82d109" width="250" />
+
+<br>
+<img src="https://github.com/user-attachments/assets/e08d84b1-1f4b-4431-adbe-d5582ac01a1b" width="250" />
+
+
 
 
 <br>
