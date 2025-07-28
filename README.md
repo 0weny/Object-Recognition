@@ -46,10 +46,23 @@
 
 6. 임시 파일(audio.aac, temp_video.mp4) 자동 삭제로 저장 공간 절약
 
-[출력 예시]
-output_final_20250726_103021.mp4: 결과 영상 (객체+얼굴 시각화)
+   <br>
 
+**[출력 예시]**
+<br/>
+output_final_20250726_103021.mp4: 결과 영상 (객체+얼굴 시각화)
+<br/>
 object_summary_20250726_103021.json: 객체별 등장 빈도 통계
+
+**[Test]**
+<br/>
+<img src="https://github.com/user-attachments/assets/7f455b25-8bdb-402b-945a-3aee8f632e76" width="400" />
+<br/>
+<img src="https://github.com/user-attachments/assets/b85c2284-62b5-477e-ae0d-b5bf5f5ce0e1" width="250" />
+
+
+출처: F1 더무비 예고편 https://www.youtube.com/watch?v=YVnz7PXLYb8 
+
 
 <br>
 
