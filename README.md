@@ -17,8 +17,7 @@
 4. 실시간 시각화 (cv2.imshow) 출력
 
 
-
-![demo](static/facedetection.gif)
+![Demo GIF](https://github.com/0weny/Object-Recognition/blob/main/static/facedetection.gif?raw=true)
 
 
 
