@@ -3,6 +3,7 @@
 분석 결과는 실시간 시각화와 JSON 통계 데이터, 결과영상(mp4)을 도출하며, 다양한 인공지능/영상처리 프로젝트의 기반 시스템에 활용가능합니다.
 
 <br>
+
 ## 1. 실시간 웹캠 영상에서 얼굴 및 사물 객체 인식 수행
  `webcam_face_detect_yolov8.py`
 
@@ -16,8 +17,12 @@
 4. 실시간 시각화 (cv2.imshow) 출력
 
 
+![demo](static/facesetection.gif)
+
+
 
 <br>
+
 ## 2. mp4 영상에서의 객체 인식 및 분석
 `mp4_video_object_detect.py`
 
@@ -39,7 +44,7 @@ output_final_20250726_103021.mp4: 결과 영상 (객체+얼굴 시각화)
 
 object_summary_20250726_103021.json: 객체별 등장 빈도 통계
 
-
+<br>
 
 ## 환경 구축 및 가상환경 설정
 환경 - `Python 3.11`
