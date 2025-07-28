@@ -1,5 +1,1 @@
-mkdir static
 
-mv "face detection.gif" static/
-
-mv "./current_directory/face detection.gif" ./static/
