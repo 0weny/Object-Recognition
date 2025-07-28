@@ -17,7 +17,8 @@
 4. 실시간 시각화 (cv2.imshow) 출력
 
 
-![demo](static/facesetection.gif)
+
+![demo](static/facedetection.gif)
 
 
 
